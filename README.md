@@ -1,5 +1,5 @@
-# react-native-webgpu
+# react-native-webgpu-three
 
-Coming soon. A [WebGPU](https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API) port for react native which aims to provide direct access to Metal and Vulkan for iOS and Android, and support for libraries like [Three.js](https://threejs.org).
+Coming soon. Aims to provide support to run [Three.js](https://threejs.org) natively, in React Native.
 
 Interested in this project? Star it in GitHub to show your support.
